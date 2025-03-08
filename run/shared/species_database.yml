@@ -4768,6 +4768,14 @@ PSO4AQ:
   FullName: SO4 from cloud chemistry
   Is_Gas: true
   MW_g: 96.06
+PSO4MP:	
+  FullName: SO4 from multi-phase chemistry
+  Is_Gas: true
+  MW_g: 96.06
+LHMS:
+  FullName: HMS oxidation
+  Is_Gas: true
+  MW_g: 96.06
 PYAC:
   DD_F0: 1.0
   DD_Hstar: 3.14e+5
